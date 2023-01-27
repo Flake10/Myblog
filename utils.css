@@ -1,0 +1,296 @@
+@media only screen and (max-width: 760px) {
+		#wr1{
+			width: 100%;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		#wr1{
+		    
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		#wr1{
+			width:980px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		#wr1{
+			width:1280px;
+		}
+	}
+@media only screen and (max-width: 760px) {
+		#w1{
+			width: 316px;
+			position: relative;
+			top:-3px;
+			left: -377px;
+			letter-spacing: -4px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		#w1{
+		    width: 750px;
+			position: relative;
+			left: -387px;
+			letter-spacing: 1px
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		#w1{
+			width:980px;
+			position:relative;
+			left:-167px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		#w1{
+			width:1280px;
+			letter-spacing: -5px;
+			font-size: 62px;
+		}
+	}
+@media only screen and (max-width: 760px) {
+		#d1{
+			width:100%;
+			position:relative;
+			left:-554px;
+			top:265px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		#d1{
+			width:750px;
+			position: relative;
+			top: 89px;
+			left: -915px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		#d1{
+			width:980px;
+			position:relative;
+			left:-380px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		#d1{
+			width:1280px;
+			position: relative;
+			left: -185px;
+			top: -4px;
+		}
+	}	
+	@media only screen and (max-width: 760px) {
+		#cont{
+			width:100%;
+			position:relative;
+			left:-137px;
+			top:96px;
+		}
+		.avatar{
+			width:200px;
+			height:200px;
+			position:relative;
+			top:15px;
+			left:11px;
+		}
+		#ai{
+			width:200px;
+			height:200px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		#cont{
+		    width: 750px;
+			position: relative;
+			top: 160px;
+			left: -340px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		#cont{
+			width:980px;
+			position:relative;
+			top: 213px;
+			left:0;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		#cont{
+			width:1280px;
+			position:relative;
+			top:229px;
+			left:120px;
+		}
+	}	
+	@media only screen and (max-width: 760px) {
+		.avatar1{
+			width:100px;
+			height:100px;
+			position:relative;
+			top:-168px;
+			left:-132px;
+		}
+		#img1{
+			width:100px;
+			height:100px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		.avatar1{
+		    position:relative;
+			top:5px;
+			left:-293px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		.avatar1{
+			position:relative;
+			top:-248px;
+			left:-249px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		.avatar1{
+			position:relative;
+			top:-244px;
+			left:-291px;
+		}
+	}	
+	@media only screen and (max-width: 760px) {
+		.avatar2{
+			width:100px;
+			height:100px;
+			position:relative;
+			top:-404px;
+			left:-119px;
+		}
+		#img1{
+			width:100px;
+			height:100px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		.avatar2{
+		    position:relative;
+			top:-193px;
+			left:-16px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		.avatar2{
+			position:relative;
+			top:-666px;
+			left:-223px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		.avatar2{
+			position:relative;
+			top:-676px;
+			left:-231px;
+		}
+	}
+@media only screen and (max-width: 760px) {
+		.avatar3{
+			width:100px;
+			height:100px;
+			position:relative;
+			top:-573px;
+			left:8px;
+		}
+		#img1{
+			width:100px;
+			height:100px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		.avatar3{
+		    position:relative;
+			top:-392px;
+			left:241px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		.avatar3{
+			position:relative;
+			top:-987px;
+			left:6px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		.avatar3{
+			position:relative;
+			top:-994px;
+			left:-1px;
+		}
+	}	
+	@media only screen and (max-width: 760px) {
+		.avatar4{
+			width:100px;
+			height:100px;
+			position:relative;
+			top:-603px;
+			left:143px;
+		}
+		#img1{
+			width:100px;
+			height:100px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		.avatar4{
+		    position:relative;
+			top:-413px;
+			left:-156px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		.avatar4{
+			position:relative;
+			top:-1066px;
+			left:237px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		.avatar4{
+			position:relative;
+			top:-1074px;
+			left:237px;
+		}
+	}
+	@media only screen and (max-width: 760px) {
+		.avatar5{
+			width:100px;
+			height:100px;
+			position:relative;
+			top:-565px;
+			left:153px;
+		}
+		#img1{
+			width:100px;
+			height:100px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		.avatar5{
+		  position:relative;
+		  top:-612px;
+		  left:124px;
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		.avatar5{
+			position:relative;
+			top:-1046px;
+			left:251px;
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		.avatar5{
+			position:relative;
+			top:-1046px;
+			left:287px;
+		}
+	}
+	

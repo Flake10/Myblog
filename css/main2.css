@@ -1,0 +1,23 @@
+body{
+	background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+#Mynav{
+	background:Black;
+}
+#Mynav .nav-link{
+	margin:10px;
+	font-size:15px;
+	color:#fff;
+}
+#jumbo{
+	background-color: #8EC5FC;
+	background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+#btn{
+	display:flex;
+	justify-content:center;
+}
+#cont1{
+	min-height:500px;
+}

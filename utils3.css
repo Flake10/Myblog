@@ -1,0 +1,25 @@
+@media only screen and (max-width: 760px) {
+		#he{
+			position:relative;
+			top:-41px;
+		}
+		#pe{
+			position:relative;
+			top:-49px;
+		}
+	}
+	@media only screen and (min-width: 760px) {
+		#he{
+		    
+		}
+	}
+	@media only screen and (min-width: 1000px) {
+		#he{
+			
+		}
+	}
+	@media only screen and (min-width: 1300px) {
+		#he{
+			
+		}
+	}
